@@ -10,9 +10,9 @@
 ## PHP-AI-机器学习
 - php-ML:https://github.com/php-ai/php-ml
 
-##Mysql工具
+## Mysql工具
 - mysql客户端，支持语法高亮和命令补全 https://github.com/dbcli/mycli
 
 
-##服务器管理
+## 服务器管理
 - 基于UDP的终端连接工具: https://mosh.org/#getting
