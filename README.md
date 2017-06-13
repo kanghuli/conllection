@@ -13,6 +13,9 @@
 ## Mysql工具
 - mysql客户端，支持语法高亮和命令补全 https://github.com/dbcli/mycli
 
+## Redis
+- Redis管理工具: https://github.com/luin/medis
 
 ## 服务器管理
 - 基于UDP的终端连接工具: https://mosh.org/#getting
+- htop: top管理工具
