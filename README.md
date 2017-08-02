@@ -7,9 +7,6 @@
 ## 后端处理
 - 360 QCONF配置管理: https://github.com/Qihoo360/QConf
 
-## PHP-AI-机器学习
-- php-ML:https://github.com/php-ai/php-ml
-
 ## Mysql工具
 - mysql客户端，支持语法高亮和命令补全 https://github.com/dbcli/mycli
 
