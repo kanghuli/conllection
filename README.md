@@ -20,3 +20,6 @@
 - 基于UDP的终端连接工具: https://mosh.org/#getting
 - htop: top管理工具
 - nessus: 漏洞扫描: http://www.tenable.com/products/nessus/select-your-operating-system
+
+##收藏整理
+- 成为专业程序员路上用到的各种优秀资料、神器及框架 https://github.com/stanzhai/be-a-professional-programmer
