@@ -10,5 +10,5 @@
 ## PHP-编码规范建议
 - clean-code-php: https://github.com/yangweijie/clean-code-php
 
-## 队列操作适配器
-- enqueue-dev: https://github.com/php-enqueue/enqueue-dev
+## 消息队列
+- 主流队列操作适配器-enqueue-dev: https://github.com/php-enqueue/enqueue-dev
