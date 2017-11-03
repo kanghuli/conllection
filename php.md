@@ -12,3 +12,6 @@
 
 ## 消息队列
 - 主流队列操作适配器-enqueue-dev: https://github.com/php-enqueue/enqueue-dev
+
+## 支付类
+- 聚合支付: https://github.com/thephpleague/omnipay
