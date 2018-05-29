@@ -20,3 +20,5 @@
 
 ## 收藏整理
 - 成为专业程序员路上用到的各种优秀资料、神器及框架 https://github.com/stanzhai/be-a-professional-programmer
+- 运维大集合: https://mp.weixin.qq.com/s/LZZBMXV1Cs0Tw1fX8s21fw
+- 聚合技术博客: http://pipe.b3log.org/
