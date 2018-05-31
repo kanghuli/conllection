@@ -15,3 +15,8 @@
 
 ## 支付类
 - 聚合支付: https://github.com/thephpleague/omnipay
+
+## PHP 敏感词过滤扩展
+- https://github.com/imaben/php-akm
+- https://github.com/FireLustre/php-dfa-sensitive
+- https://github.com/yankewei/laravel-sensitive
