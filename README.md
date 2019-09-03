@@ -3,6 +3,7 @@
 
 ## 前端组件
 - 弹窗messenger:http://github.hubspot.com/messenger/docs/welcome/
+- 仪表盘/图标: https://github.com/d2-projects/d2-admin
 
 ## 后端处理
 - 360 QCONF配置管理: https://github.com/Qihoo360/QConf
